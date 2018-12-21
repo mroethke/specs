@@ -1,0 +1,3 @@
+[submodule "openflow"]
+	path = openflow
+	url = https://github.com/mininet/openflow
